@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2 align="center">About Me</h2>
 
-<!--
-**JNDEV03/JNDEV03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Hello I'am Jn03 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Working Discord bot develope , Discord , Website develope , Tiktok & Instagram effect develope , other
+
+- 🚧 Website Soon!
+
+- 💬 Discord [JN03#0558](https://discord.com/users/634409440837238784)
+
+
+</pre><br>
+
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="[https://discord.gg/MBTkVcJefp](https://discord.gg/xJczTNHM3F)">
+        <img title="NextTectzX server discord" alt="NextTectzX discord" src="https://discord.c99.nl/widget/theme-1/634409440837238784.png"/>
+    </a>
+</p>
+
+</p>
+
+<h2 align="center"> Copyright © 2020 - 2022  
