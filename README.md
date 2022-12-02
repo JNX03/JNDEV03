@@ -9,6 +9,8 @@
 
 - 💬 Discord [JN03#0558](https://discord.com/users/634409440837238784)
 
+- ⭐ Release swtbot source code at 100 like & 10 follow
+
 
 </pre><br>
 
