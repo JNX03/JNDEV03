@@ -1,9 +1,9 @@
 <h2 align="center">About Me</h2>
 
 
-- 👋 Hello I'am Jn03 
+- 👋 Hello I'am Jn03 ( Jean )
 
-- ⚡ Working Discord bot develope , Discord , Website develope , Tiktok & Instagram effect develope , other
+- ⚡ Working (Full Stack Dev)  Discord bot develope , Discord , Website develope , Tiktok & Instagram effect develope , other
 
 - 🚧 Website Soon!
 
