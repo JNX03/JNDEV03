@@ -1,7 +1,7 @@
 <h2 align="center">About Me</h2>
 
 
-- 👋 Hello I'am Jn03 ( Jean ) | Goal : 200 contributions in 2022
+- 👋 Hello I'am Jn03 ( Jean )
 
 - ⚡ Working (Full Stack Dev)  Discord bot develope , Discord , Website develope , Tiktok & Instagram effect develope , other
 
