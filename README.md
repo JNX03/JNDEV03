@@ -11,7 +11,6 @@
 
 - ⭐ Release swtbot source code at 50 like & 10 follow [Swtbot](https://github.com/JNDEV03/Swtbot-source)
 
-- Happy New Year 2023 [ This status will be remove in 72 Hour ]
 </pre><br>
 
 <h2 align="center">Discord Profile</h2><br>
