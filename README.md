@@ -18,7 +18,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="[https://discord.gg/MBTkVcJefp](https://discord.gg/xJczTNHM3F)">
-        <img title="NextTectzX server discord" alt="NextTectzX discord" src="https://discord.c99.nl/widget/theme-1/634409440837238784.png"/>
+        <img title="NextTectzX server discord" alt="NextTechzX discord" src="https://discord.c99.nl/widget/theme-1/634409440837238784.png"/>
     </a>
 </p>
 
