@@ -9,7 +9,7 @@
 
 - 💬 Discord [JN03#0558](https://discord.com/users/634409440837238784)
 
-- ⭐ Release swtbot source code at 50 like & 10 follow [Swtbot](https://github.com/JNDEV03/Swtbot-source)
+- ⭐ Release swtbot & DisTech source code at 50 like & 10 follow [Swtbot](https://github.com/JNDEV03/Swtbot-source)
 
 
 
