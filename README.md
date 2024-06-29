@@ -22,4 +22,4 @@
 
 </p>
 
-<h2 align="center"> Copyright © 2020 - 2024
+<h2 align="center"> Made with ❤️
